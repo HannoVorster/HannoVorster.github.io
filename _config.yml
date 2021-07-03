@@ -22,7 +22,7 @@ title: Hanno's Notes
 email: vorster.hanno@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My own space where I keep notes of stuff I'm creating. Be curious and keep on learning!
-baseurl: "HannoVorster.github.io" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://hannovorster.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: KehannoReeves
 github_username:  hannovorster
